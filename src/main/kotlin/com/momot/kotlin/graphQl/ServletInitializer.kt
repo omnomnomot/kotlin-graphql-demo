@@ -1,4 +1,4 @@
-package com.momot
+package com.momot.kotlin.graphQl
 
 import org.springframework.boot.builder.SpringApplicationBuilder
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
